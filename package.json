@@ -1,0 +1,18 @@
+{
+  "name": "postme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c -1 ."
+  },
+  "keywords": [
+    "pwa",
+    "utcv"
+  ],
+  "author": "gamalariata1@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
